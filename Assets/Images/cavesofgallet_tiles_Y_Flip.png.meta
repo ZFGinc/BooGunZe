@@ -1,0 +1,2503 @@
+fileFormatVersion: 2
+guid: 2c8774a66a5286a4d9b68b57f6229607
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6785003487509191526
+    second: cavesofgallet_tiles_Y_Flip_0
+  - first:
+      213: 6115567573357427438
+    second: cavesofgallet_tiles_Y_Flip_1
+  - first:
+      213: -3465093934871592763
+    second: cavesofgallet_tiles_Y_Flip_2
+  - first:
+      213: -7492383263885006418
+    second: cavesofgallet_tiles_Y_Flip_3
+  - first:
+      213: -9203075574352194147
+    second: cavesofgallet_tiles_Y_Flip_4
+  - first:
+      213: 2723158854063794713
+    second: cavesofgallet_tiles_Y_Flip_5
+  - first:
+      213: 5207634440828976768
+    second: cavesofgallet_tiles_Y_Flip_6
+  - first:
+      213: -1147834302523015542
+    second: cavesofgallet_tiles_Y_Flip_7
+  - first:
+      213: -3082459954718411341
+    second: cavesofgallet_tiles_Y_Flip_8
+  - first:
+      213: 7578139050958216555
+    second: cavesofgallet_tiles_Y_Flip_9
+  - first:
+      213: 5068997368738582894
+    second: cavesofgallet_tiles_Y_Flip_10
+  - first:
+      213: -5468907547016549742
+    second: cavesofgallet_tiles_Y_Flip_11
+  - first:
+      213: -573557957199912099
+    second: cavesofgallet_tiles_Y_Flip_12
+  - first:
+      213: -1860052752698424530
+    second: cavesofgallet_tiles_Y_Flip_13
+  - first:
+      213: -1119833833548445599
+    second: cavesofgallet_tiles_Y_Flip_14
+  - first:
+      213: -5921778861668840533
+    second: cavesofgallet_tiles_Y_Flip_15
+  - first:
+      213: 1601587491220549448
+    second: cavesofgallet_tiles_Y_Flip_16
+  - first:
+      213: -8536871563479344003
+    second: cavesofgallet_tiles_Y_Flip_17
+  - first:
+      213: -577796225251552109
+    second: cavesofgallet_tiles_Y_Flip_18
+  - first:
+      213: -7491285681085172562
+    second: cavesofgallet_tiles_Y_Flip_19
+  - first:
+      213: 8235817039744845218
+    second: cavesofgallet_tiles_Y_Flip_20
+  - first:
+      213: 5466324976404538469
+    second: cavesofgallet_tiles_Y_Flip_21
+  - first:
+      213: -3934464206611835004
+    second: cavesofgallet_tiles_Y_Flip_22
+  - first:
+      213: 6431025200269769526
+    second: cavesofgallet_tiles_Y_Flip_23
+  - first:
+      213: 7456964777060084656
+    second: cavesofgallet_tiles_Y_Flip_24
+  - first:
+      213: 3709397161895728113
+    second: cavesofgallet_tiles_Y_Flip_25
+  - first:
+      213: -1328315223228863882
+    second: cavesofgallet_tiles_Y_Flip_26
+  - first:
+      213: 5367956479080809163
+    second: cavesofgallet_tiles_Y_Flip_27
+  - first:
+      213: 3229917412527849229
+    second: cavesofgallet_tiles_Y_Flip_28
+  - first:
+      213: -9083325408575394826
+    second: cavesofgallet_tiles_Y_Flip_29
+  - first:
+      213: -8944818294840612862
+    second: cavesofgallet_tiles_Y_Flip_30
+  - first:
+      213: 5315250029337437401
+    second: cavesofgallet_tiles_Y_Flip_31
+  - first:
+      213: -7443397653790291692
+    second: cavesofgallet_tiles_Y_Flip_32
+  - first:
+      213: -7609128579593067422
+    second: cavesofgallet_tiles_Y_Flip_33
+  - first:
+      213: 3649695450939657464
+    second: cavesofgallet_tiles_Y_Flip_34
+  - first:
+      213: -2786004435575101144
+    second: cavesofgallet_tiles_Y_Flip_35
+  - first:
+      213: -655836164244106147
+    second: cavesofgallet_tiles_Y_Flip_36
+  - first:
+      213: 497397464366793891
+    second: cavesofgallet_tiles_Y_Flip_37
+  - first:
+      213: -7610042253304056570
+    second: cavesofgallet_tiles_Y_Flip_38
+  - first:
+      213: 7834341190583611390
+    second: cavesofgallet_tiles_Y_Flip_39
+  - first:
+      213: -2600525251844602212
+    second: cavesofgallet_tiles_Y_Flip_40
+  - first:
+      213: 1201806851527059157
+    second: cavesofgallet_tiles_Y_Flip_41
+  - first:
+      213: -2015960502138349850
+    second: cavesofgallet_tiles_Y_Flip_42
+  - first:
+      213: -1663688937786947230
+    second: cavesofgallet_tiles_Y_Flip_43
+  - first:
+      213: -3662989479189287672
+    second: cavesofgallet_tiles_Y_Flip_44
+  - first:
+      213: -7840289607449386177
+    second: cavesofgallet_tiles_Y_Flip_45
+  - first:
+      213: 5860640042296351285
+    second: cavesofgallet_tiles_Y_Flip_46
+  - first:
+      213: 6781472115214377574
+    second: cavesofgallet_tiles_Y_Flip_47
+  - first:
+      213: 6875031069805535054
+    second: cavesofgallet_tiles_Y_Flip_48
+  - first:
+      213: 3618079190623963577
+    second: cavesofgallet_tiles_Y_Flip_49
+  - first:
+      213: 6502078164570481882
+    second: cavesofgallet_tiles_Y_Flip_50
+  - first:
+      213: -7619221719005384204
+    second: cavesofgallet_tiles_Y_Flip_51
+  - first:
+      213: 4635752840215241449
+    second: cavesofgallet_tiles_Y_Flip_52
+  - first:
+      213: -4074253070493188023
+    second: cavesofgallet_tiles_Y_Flip_53
+  - first:
+      213: 8545376301371099727
+    second: cavesofgallet_tiles_Y_Flip_54
+  - first:
+      213: 7236313086370194363
+    second: cavesofgallet_tiles_Y_Flip_55
+  - first:
+      213: -1970174904897248265
+    second: cavesofgallet_tiles_Y_Flip_56
+  - first:
+      213: 1083787419922919607
+    second: cavesofgallet_tiles_Y_Flip_57
+  - first:
+      213: -4983373319135199730
+    second: cavesofgallet_tiles_Y_Flip_58
+  - first:
+      213: -5251913903121125583
+    second: cavesofgallet_tiles_Y_Flip_59
+  - first:
+      213: -1760396002301860700
+    second: cavesofgallet_tiles_Y_Flip_60
+  - first:
+      213: 112643242499722851
+    second: cavesofgallet_tiles_Y_Flip_61
+  - first:
+      213: 3488600128002005488
+    second: cavesofgallet_tiles_Y_Flip_62
+  - first:
+      213: 5771535604661978359
+    second: cavesofgallet_tiles_Y_Flip_63
+  - first:
+      213: 5967798344834236960
+    second: cavesofgallet_tiles_Y_Flip_64
+  - first:
+      213: 1442337843348469208
+    second: cavesofgallet_tiles_Y_Flip_65
+  - first:
+      213: -2948040877251108855
+    second: cavesofgallet_tiles_Y_Flip_66
+  - first:
+      213: -7784874485913441966
+    second: cavesofgallet_tiles_Y_Flip_67
+  - first:
+      213: -5507515416194776780
+    second: cavesofgallet_tiles_Y_Flip_68
+  - first:
+      213: 7647098143295114361
+    second: cavesofgallet_tiles_Y_Flip_69
+  - first:
+      213: 6675649588273505428
+    second: cavesofgallet_tiles_Y_Flip_70
+  - first:
+      213: -454332686244988529
+    second: cavesofgallet_tiles_Y_Flip_71
+  - first:
+      213: 3707299576643127577
+    second: cavesofgallet_tiles_Y_Flip_72
+  - first:
+      213: -4010688994958207990
+    second: cavesofgallet_tiles_Y_Flip_73
+  - first:
+      213: 2833882922179482374
+    second: cavesofgallet_tiles_Y_Flip_74
+  - first:
+      213: 6472681026544335373
+    second: cavesofgallet_tiles_Y_Flip_75
+  - first:
+      213: -3275265529995130649
+    second: cavesofgallet_tiles_Y_Flip_76
+  - first:
+      213: -4946882559086186811
+    second: cavesofgallet_tiles_Y_Flip_77
+  - first:
+      213: 1812184962236250211
+    second: cavesofgallet_tiles_Y_Flip_78
+  - first:
+      213: -3047817553205522327
+    second: cavesofgallet_tiles_Y_Flip_79
+  - first:
+      213: 1517276283915026077
+    second: cavesofgallet_tiles_Y_Flip_80
+  - first:
+      213: -2673330335708683332
+    second: cavesofgallet_tiles_Y_Flip_81
+  - first:
+      213: -7554676104285917397
+    second: cavesofgallet_tiles_Y_Flip_82
+  - first:
+      213: -2343924516012286451
+    second: cavesofgallet_tiles_Y_Flip_83
+  - first:
+      213: -4728778425733167117
+    second: cavesofgallet_tiles_Y_Flip_84
+  - first:
+      213: 2576607840204392543
+    second: cavesofgallet_tiles_Y_Flip_85
+  - first:
+      213: -4075884568275336377
+    second: cavesofgallet_tiles_Y_Flip_86
+  - first:
+      213: -4618028494366407145
+    second: cavesofgallet_tiles_Y_Flip_87
+  - first:
+      213: 172519272585779263
+    second: cavesofgallet_tiles_Y_Flip_88
+  - first:
+      213: 3122376612411758580
+    second: cavesofgallet_tiles_Y_Flip_89
+  - first:
+      213: -5542035528432287266
+    second: cavesofgallet_tiles_Y_Flip_90
+  - first:
+      213: -1986970706599177241
+    second: cavesofgallet_tiles_Y_Flip_91
+  - first:
+      213: -3075275852765433725
+    second: cavesofgallet_tiles_Y_Flip_92
+  - first:
+      213: -6486401540611942393
+    second: cavesofgallet_tiles_Y_Flip_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 128
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 128
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 128
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 128
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 128
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b95c039bc292e50800000000000000
+      internalID: 6785003487509191526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeafdd96e4cded450800000000000000
+      internalID: 6115567573357427438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c04e92dc6389efc0800000000000000
+      internalID: -3465093934871592763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea96d0b2e15b50890800000000000000
+      internalID: -7492383263885006418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95d9ad668b184080800000000000000
+      internalID: -9203075574352194147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91aae63cc8a9ac520800000000000000
+      internalID: 2723158854063794713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e73b5ceeb354840800000000000000
+      internalID: 5207634440828976768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e7b1988c21210f0800000000000000
+      internalID: -1147834302523015542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b574a4b007e835d0800000000000000
+      internalID: -3082459954718411341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d51eee055fa2960800000000000000
+      internalID: 7578139050958216555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e619d0b0042b85640800000000000000
+      internalID: 5068997368738582894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a20aebf898a14b0800000000000000
+      internalID: -5468907547016549742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d532007a3105a08f0800000000000000
+      internalID: -573557957199912099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e234ceb50e3cf26e0800000000000000
+      internalID: -1860052752698424530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16881efbf0d8570f0800000000000000
+      internalID: -1119833833548445599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babcfcf008d91dda0800000000000000
+      internalID: -5921778861668840533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fe8e2765bf93610800000000000000
+      internalID: 1601587491220549448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c1ea51b80f68980800000000000000
+      internalID: -8536871563479344003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394d159f4614bf7f0800000000000000
+      internalID: -577796225251552109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4b2f31d5b990890800000000000000
+      internalID: -7491285681085172562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5c91166ff7b4270800000000000000
+      internalID: 8235817039744845218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564207daa994cdb40800000000000000
+      internalID: 5466324976404538469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487996756a9f569c0800000000000000
+      internalID: -3934464206611835004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b3aabb8579f3950800000000000000
+      internalID: 6431025200269769526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb244fb4f57c7760800000000000000
+      internalID: 7456964777060084656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f313a5c01d6a7330800000000000000
+      internalID: 3709397161895728113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a23b99750e09de0800000000000000
+      internalID: -1328315223228863882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_27
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc24e512affce7a40800000000000000
+      internalID: 5367956479080809163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f329b16c8f2dc20800000000000000
+      internalID: 3229917412527849229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb659a9aab81f180800000000000000
+      internalID: -9083325408575394826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2082c9b072f9dd380800000000000000
+      internalID: -8944818294840612862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4ea038dbf83c940800000000000000
+      internalID: 5315250029337437401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4198adb454db3b890800000000000000
+      internalID: -7443397653790291692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264251b2fd1f66690800000000000000
+      internalID: -7609128579593067422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc0e9bfca256a230800000000000000
+      internalID: 3649695450939657464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82922ea0abf1659d0800000000000000
+      internalID: -2786004435575101144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54106fbb7006e6f0800000000000000
+      internalID: -655836164244106147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a443c7cb5c17e600800000000000000
+      internalID: 497397464366793891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605391ee3e2b36690800000000000000
+      internalID: -7610042253304056570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_39
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff62f10ecb29bc60800000000000000
+      internalID: 7834341190583611390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c968e56cf0419ebd0800000000000000
+      internalID: -2600525251844602212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6a6e9c6fcada010800000000000000
+      internalID: 1201806851527059157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e653d4ba9ed504e0800000000000000
+      internalID: -2015960502138349850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2694676c9b369e8e0800000000000000
+      internalID: -1663688937786947230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dedecd9727a2dc0800000000000000
+      internalID: -3662989479189287672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33eac34422b13390800000000000000
+      internalID: -7840289607449386177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a1185411d255150800000000000000
+      internalID: 5860640042296351285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_47
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662e19185f0ac1e50800000000000000
+      internalID: 6781472115214377574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f588f1554096f50800000000000000
+      internalID: 6875031069805535054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9cf5ebadff53230800000000000000
+      internalID: 3618079190623963577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad42c0524a50c3a50800000000000000
+      internalID: 6502078164570481882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f13eb50736134690800000000000000
+      internalID: -7619221719005384204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2a98b95a0855040800000000000000
+      internalID: 4635752840215241449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94085303b685577c0800000000000000
+      internalID: -4074253070493188023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a04438876479670800000000000000
+      internalID: 8545376301371099727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb32b94996c8c6460800000000000000
+      internalID: 7236313086370194363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3e538cc5888a4e0800000000000000
+      internalID: -1970174904897248265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0fa809ae26a0f00800000000000000
+      internalID: 1083787419922919607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e79c98e5087dab0800000000000000
+      internalID: -4983373319135199730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fa78581247d17b0800000000000000
+      internalID: -5251913903121125583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4a7c2b921d197e0800000000000000
+      internalID: -1760396002301860700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e4b87ae60309100800000000000000
+      internalID: 112643242499722851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f911f0455ff96030800000000000000
+      internalID: 3488600128002005488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_63
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f48564bd0d981050800000000000000
+      internalID: 5771535604661978359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0224203d9f0e1d250800000000000000
+      internalID: 5967798344834236960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d573ee60a6340410800000000000000
+      internalID: 1442337843348469208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900ed1801747617d0800000000000000
+      internalID: -2948040877251108855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_67
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259a02ea6e196f390800000000000000
+      internalID: -7784874485913441966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43109b6b8ef5193b0800000000000000
+      internalID: -5507515416194776780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_69
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c87a9ce33ff1a60800000000000000
+      internalID: 7647098143295114361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49466027eeba4ac50800000000000000
+      internalID: 6675649588273505428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89b48a34d2e1b9f0800000000000000
+      internalID: -454332686244988529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91905c5a259f27330800000000000000
+      internalID: 3707299576643127577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_73
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0492fecb9b2758c0800000000000000
+      internalID: -4010688994958207990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603dd8fc089f35720800000000000000
+      internalID: 2833882922179482374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_75
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0af593991593d950800000000000000
+      internalID: 6472681026544335373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e80f838a5beb82d0800000000000000
+      internalID: -3275265529995130649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cea710b584295bb0800000000000000
+      internalID: -4946882559086186811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368756d2f9c262910800000000000000
+      internalID: 1812184962236250211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_79
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9601cf8551af3b5d0800000000000000
+      internalID: -3047817553205522327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e31e8cdb27e0510800000000000000
+      internalID: 1517276283915026077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3eecc393c66ead0800000000000000
+      internalID: -2673330335708683332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fe7ea0c16682790800000000000000
+      internalID: -7554676104285917397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_83
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e12c24215b87fd0800000000000000
+      internalID: -2343924516012286451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7c4a07311006eb0800000000000000
+      internalID: -4728778425733167117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f588ed0ed23f1c320800000000000000
+      internalID: 2576607840204392543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743c372849c8f67c0800000000000000
+      internalID: -4075884568275336377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_87
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71688ae3d8779efb0800000000000000
+      internalID: -4618028494366407145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3852674d59e46200800000000000000
+      internalID: 172519272585779263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_89
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f75ac56cf8e45b20800000000000000
+      internalID: 3122376612411758580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed10333cc0cb613b0800000000000000
+      internalID: -5542035528432287266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_91
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e39c067bacdc64e0800000000000000
+      internalID: -1986970706599177241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3807499c7ec6255d0800000000000000
+      internalID: -3075275852765433725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_tiles_Y_Flip_93
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708574d4a2cabf5a0800000000000000
+      internalID: -6486401540611942393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cavesofgallet_tiles_Y_Flip_0: 6785003487509191526
+      cavesofgallet_tiles_Y_Flip_1: 6115567573357427438
+      cavesofgallet_tiles_Y_Flip_10: 5068997368738582894
+      cavesofgallet_tiles_Y_Flip_11: -5468907547016549742
+      cavesofgallet_tiles_Y_Flip_12: -573557957199912099
+      cavesofgallet_tiles_Y_Flip_13: -1860052752698424530
+      cavesofgallet_tiles_Y_Flip_14: -1119833833548445599
+      cavesofgallet_tiles_Y_Flip_15: -5921778861668840533
+      cavesofgallet_tiles_Y_Flip_16: 1601587491220549448
+      cavesofgallet_tiles_Y_Flip_17: -8536871563479344003
+      cavesofgallet_tiles_Y_Flip_18: -577796225251552109
+      cavesofgallet_tiles_Y_Flip_19: -7491285681085172562
+      cavesofgallet_tiles_Y_Flip_2: -3465093934871592763
+      cavesofgallet_tiles_Y_Flip_20: 8235817039744845218
+      cavesofgallet_tiles_Y_Flip_21: 5466324976404538469
+      cavesofgallet_tiles_Y_Flip_22: -3934464206611835004
+      cavesofgallet_tiles_Y_Flip_23: 6431025200269769526
+      cavesofgallet_tiles_Y_Flip_24: 7456964777060084656
+      cavesofgallet_tiles_Y_Flip_25: 3709397161895728113
+      cavesofgallet_tiles_Y_Flip_26: -1328315223228863882
+      cavesofgallet_tiles_Y_Flip_27: 5367956479080809163
+      cavesofgallet_tiles_Y_Flip_28: 3229917412527849229
+      cavesofgallet_tiles_Y_Flip_29: -9083325408575394826
+      cavesofgallet_tiles_Y_Flip_3: -7492383263885006418
+      cavesofgallet_tiles_Y_Flip_30: -8944818294840612862
+      cavesofgallet_tiles_Y_Flip_31: 5315250029337437401
+      cavesofgallet_tiles_Y_Flip_32: -7443397653790291692
+      cavesofgallet_tiles_Y_Flip_33: -7609128579593067422
+      cavesofgallet_tiles_Y_Flip_34: 3649695450939657464
+      cavesofgallet_tiles_Y_Flip_35: -2786004435575101144
+      cavesofgallet_tiles_Y_Flip_36: -655836164244106147
+      cavesofgallet_tiles_Y_Flip_37: 497397464366793891
+      cavesofgallet_tiles_Y_Flip_38: -7610042253304056570
+      cavesofgallet_tiles_Y_Flip_39: 7834341190583611390
+      cavesofgallet_tiles_Y_Flip_4: -9203075574352194147
+      cavesofgallet_tiles_Y_Flip_40: -2600525251844602212
+      cavesofgallet_tiles_Y_Flip_41: 1201806851527059157
+      cavesofgallet_tiles_Y_Flip_42: -2015960502138349850
+      cavesofgallet_tiles_Y_Flip_43: -1663688937786947230
+      cavesofgallet_tiles_Y_Flip_44: -3662989479189287672
+      cavesofgallet_tiles_Y_Flip_45: -7840289607449386177
+      cavesofgallet_tiles_Y_Flip_46: 5860640042296351285
+      cavesofgallet_tiles_Y_Flip_47: 6781472115214377574
+      cavesofgallet_tiles_Y_Flip_48: 6875031069805535054
+      cavesofgallet_tiles_Y_Flip_49: 3618079190623963577
+      cavesofgallet_tiles_Y_Flip_5: 2723158854063794713
+      cavesofgallet_tiles_Y_Flip_50: 6502078164570481882
+      cavesofgallet_tiles_Y_Flip_51: -7619221719005384204
+      cavesofgallet_tiles_Y_Flip_52: 4635752840215241449
+      cavesofgallet_tiles_Y_Flip_53: -4074253070493188023
+      cavesofgallet_tiles_Y_Flip_54: 8545376301371099727
+      cavesofgallet_tiles_Y_Flip_55: 7236313086370194363
+      cavesofgallet_tiles_Y_Flip_56: -1970174904897248265
+      cavesofgallet_tiles_Y_Flip_57: 1083787419922919607
+      cavesofgallet_tiles_Y_Flip_58: -4983373319135199730
+      cavesofgallet_tiles_Y_Flip_59: -5251913903121125583
+      cavesofgallet_tiles_Y_Flip_6: 5207634440828976768
+      cavesofgallet_tiles_Y_Flip_60: -1760396002301860700
+      cavesofgallet_tiles_Y_Flip_61: 112643242499722851
+      cavesofgallet_tiles_Y_Flip_62: 3488600128002005488
+      cavesofgallet_tiles_Y_Flip_63: 5771535604661978359
+      cavesofgallet_tiles_Y_Flip_64: 5967798344834236960
+      cavesofgallet_tiles_Y_Flip_65: 1442337843348469208
+      cavesofgallet_tiles_Y_Flip_66: -2948040877251108855
+      cavesofgallet_tiles_Y_Flip_67: -7784874485913441966
+      cavesofgallet_tiles_Y_Flip_68: -5507515416194776780
+      cavesofgallet_tiles_Y_Flip_69: 7647098143295114361
+      cavesofgallet_tiles_Y_Flip_7: -1147834302523015542
+      cavesofgallet_tiles_Y_Flip_70: 6675649588273505428
+      cavesofgallet_tiles_Y_Flip_71: -454332686244988529
+      cavesofgallet_tiles_Y_Flip_72: 3707299576643127577
+      cavesofgallet_tiles_Y_Flip_73: -4010688994958207990
+      cavesofgallet_tiles_Y_Flip_74: 2833882922179482374
+      cavesofgallet_tiles_Y_Flip_75: 6472681026544335373
+      cavesofgallet_tiles_Y_Flip_76: -3275265529995130649
+      cavesofgallet_tiles_Y_Flip_77: -4946882559086186811
+      cavesofgallet_tiles_Y_Flip_78: 1812184962236250211
+      cavesofgallet_tiles_Y_Flip_79: -3047817553205522327
+      cavesofgallet_tiles_Y_Flip_8: -3082459954718411341
+      cavesofgallet_tiles_Y_Flip_80: 1517276283915026077
+      cavesofgallet_tiles_Y_Flip_81: -2673330335708683332
+      cavesofgallet_tiles_Y_Flip_82: -7554676104285917397
+      cavesofgallet_tiles_Y_Flip_83: -2343924516012286451
+      cavesofgallet_tiles_Y_Flip_84: -4728778425733167117
+      cavesofgallet_tiles_Y_Flip_85: 2576607840204392543
+      cavesofgallet_tiles_Y_Flip_86: -4075884568275336377
+      cavesofgallet_tiles_Y_Flip_87: -4618028494366407145
+      cavesofgallet_tiles_Y_Flip_88: 172519272585779263
+      cavesofgallet_tiles_Y_Flip_89: 3122376612411758580
+      cavesofgallet_tiles_Y_Flip_9: 7578139050958216555
+      cavesofgallet_tiles_Y_Flip_90: -5542035528432287266
+      cavesofgallet_tiles_Y_Flip_91: -1986970706599177241
+      cavesofgallet_tiles_Y_Flip_92: -3075275852765433725
+      cavesofgallet_tiles_Y_Flip_93: -6486401540611942393
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
