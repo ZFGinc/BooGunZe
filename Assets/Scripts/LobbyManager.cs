@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using Photon.Pun;
+﻿using Photon.Pun;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
-using TMPro;
 using Random = UnityEngine.Random;
 
 public class LobbyManager : MonoBehaviourPunCallbacks
@@ -19,7 +16,7 @@ public class LobbyManager : MonoBehaviourPunCallbacks
     private void Start()
     {
         PanelLoading.SetActive(true);
-        PhotonNetwork.NickName = "Player" + Random.Range(0,9999);
+        PhotonNetwork.NickName = "Player" + Random.Range(0, 9999);
         if (PlayerPrefs.HasKey("Nick")) nick.text = PlayerPrefs.GetString("Nick");
 
         PhotonNetwork.AutomaticallySyncScene = true;
@@ -29,7 +26,7 @@ public class LobbyManager : MonoBehaviourPunCallbacks
 
     void Update()
     {
-	chatText.text = PhotonNetwork.CountOfPlayersInRooms.ToString()+" players now";
+        chatText.text = PhotonNetwork.CountOfPlayersInRooms.ToString() + " players now";
     }
 
     public override void OnConnectedToMaster()
